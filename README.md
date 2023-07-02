@@ -9,4 +9,4 @@
 <p align="center">Estudiante: Ramiro Federico Ramirez.</p>
 <p align="center">Carrera: Licenciatura en Informática</p>
 <p align="center">Legajo: VINF10400</p>
-<p align="center"><b>Módulo de Administración en PHP/Laravel.</b></p>
+<p align="center"><b>Módulo de Administración PHP/Laravel.</b></p>
